@@ -3,7 +3,7 @@ import React from 'react';
 
 function Loading() {
   return (
-    <div className="bg-gradient-to-br from-[#394F68] to-[#183B7E] min-h-screen flex flex-col items-center justify-center text-slate-50">
+    <div className="bg-gradient-to-br from-[#394F68] to-[#183B7E] min-h-screen flex flex-col items-center justify-center text-slate-500">
       <SunIcon className="h-24 w-24 animate-bounce text-yellow-500" />
       <h1 className="text-6xl font-bold text-center mb-10 animate-pulse">
         Loading City Weather Information
